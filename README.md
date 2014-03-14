@@ -1,2 +1,9 @@
 MicRunner-NodeJS
 ================
+http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
+http://book.mixu.net/node/ch5.html
+http://www.benfarrell.com/2013/09/30/a-supervisor-for-node-js/
+http://expressjs.com/guide.html
+https://gist.github.com/thehunmonkgroup/2042409
+http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socket-io-and-expressjs--net-31708
+http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
